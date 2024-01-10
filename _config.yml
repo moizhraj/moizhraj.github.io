@@ -22,7 +22,7 @@ title: Moiz Raj
 email: moizhraj@outlook.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://moizhraj.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: moizmh
+# twitter_username: 
 github_username:  moizhraj
 
 name: Logic Labs
@@ -111,7 +111,7 @@ author:
       # url: 
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/moizmh"
+      # url: 
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: 
